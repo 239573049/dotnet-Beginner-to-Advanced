@@ -272,6 +272,14 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 - EventBus实现领域事件(Domain Events)
 - 模块以及模块的依赖关系实现插件化的模块处理等等
 
+![image](https://user-images.githubusercontent.com/61819790/216491752-d93b6867-f693-495e-8b2a-e30b1e89e3d2.png)
+
+### [masastack](https://docs.masastack.com/framework/concepts/overview)
+
+全新的.NET现代应用开发，提供分布式应用运行时–基于Dapr云原生最佳实践，能够快速实现分布式、微服务、DDD，SaaS等现代应用开发
+
+![image](https://user-images.githubusercontent.com/61819790/216491618-c9f3823c-eb2e-4270-923b-3c9030dd2bc2.png)
+
 
 ## 结尾
 
