@@ -93,7 +93,7 @@ Blazor UI框架推荐
 - [MatBlazor](https://www.matblazor.com/)
 - [Radzen Blazor](https://blazor.radzen.com/)
 
-### dotetn文档
+### dotnet文档
 
 [github](https://github.com/dotnet/AspNetCore.Docs)
 [webvscode地址](https://github.dev/dotnet/AspNetCore.Docs)
