@@ -285,6 +285,8 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 欢迎大佬继续补充，壮大dotnet生态！
 
+github地址：[dotent入门到高级](https://github.com/239573049/dotnet-Beginner-to-Advanced)
+
 来着token的分享
 
 技术交流群：737776595
