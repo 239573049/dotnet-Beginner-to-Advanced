@@ -4,7 +4,7 @@
 2. [.NET Core 基础知识](#.NETCore基础知识)
     - [ASP.NET Core 基础知识概述](#ASP.NETCore基础知识概述)
     - [Blazor](#Blazor)
-    - [dotnet文档](#dotent文档)
+    - [dotnet文档](#dotnet文档)
 3. [ORM](#ORM)
     - [freesql](#freesql)
     - [Entity Framework Core](#EntityFrameworkCore)
