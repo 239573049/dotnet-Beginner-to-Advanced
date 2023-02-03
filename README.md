@@ -274,7 +274,7 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 ![image](https://user-images.githubusercontent.com/61819790/216491752-d93b6867-f693-495e-8b2a-e30b1e89e3d2.png)
 
-### [masastack](https://docs.masastack.com/framework/concepts/overview)
+### [masa framework](https://docs.masastack.com/framework/concepts/overview)
 
 全新的.NET现代应用开发，提供分布式应用运行时–基于Dapr云原生最佳实践，能够快速实现分布式、微服务、DDD，SaaS等现代应用开发
 
