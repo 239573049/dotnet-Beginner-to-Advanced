@@ -33,6 +33,7 @@
 8. [应用框架](#应用框架)
     - [ABP](#ABP)
     - [MASA Framework](#masaframework)
+    - [OpenIddict](#OpenIddict)
 
 ## C# 基础语法
 
@@ -297,6 +298,19 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 全新的.NET现代应用开发，提供分布式应用运行时–基于Dapr云原生最佳实践，能够快速实现分布式、微服务、DDD，SaaS等现代应用开发
 
 ![image](https://user-images.githubusercontent.com/61819790/216491618-c9f3823c-eb2e-4270-923b-3c9030dd2bc2.png)
+
+
+
+[OpenIddict](https://github.com/openiddict/openiddict-core)
+
+OpenIddict是什么?
+
+OpenIddict旨在提供一个通用的解决方案，在任何ASP中实现OpenID连接客户端、服务器和令牌验证支持。NET Core 2.1(及更高版本)应用程序。ASP。NET 4.6.1(及更高版本)应用程序也得到了完全的支持，这要归功于原生的Microsoft。Owin 4.2集成。
+
+OpenIddict完全支持代码/隐式/混合流、客户端凭证/资源所有者密码授予和设备授权流。
+
+OpenIddict原生支持实体框架核心、实体框架6和MongoDB，并且可以实现自定义存储以支持其他提供者。
+
 
 
 ## 结尾
