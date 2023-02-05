@@ -1,12 +1,12 @@
 # .NET 入门到高级路线
 
-1. [c# 基础语法](#csharp基础语法)
+1. [C# 基础语法](#csharp基础语法)
 2. [.NET Core 基础知识](#.NETCore基础知识)
     - [ASP.NET Core 基础知识概述](#ASP.NETCore基础知识概述)
     - [Blazor](#Blazor)
-    - [dotnet文档](#dotnet文档)
+    - [dotnet 文档](#dotnet文档)
 3. [ORM](#ORM)
-    - [freesql](#freesql)
+    - [FreeSql](#freesql)
     - [Entity Framework Core](#EntityFrameworkCore)
     - [Dapper](#Dapper)
     - [SqlSugar](#SqlSugar)
@@ -15,7 +15,7 @@
     - [MySql](#MySql)
     - [PostgreSQL](#PostgreSQL)
 5. [中间件](#中间件)
-    - [mongodb](#mongodb)
+    - [MongoDB](#mongodb)
     - [Redis](#Redis)
     - [Rabbitmq](#Rabbitmq)
     - [ActiveMQ](#ActiveMQ)
@@ -32,13 +32,13 @@
 
 8. [应用框架](#应用框架)
     - [ABP](#ABP)
-    - [masa framework](#masaframework)
+    - [MASA Framework](#masaframework)
 
-## CSharp基础语法
+## C# 基础语法
 
 微软官方教程地址 ：[C# 文档 - 入门、教程、参考。 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 
-b站视频：
+B站视频：
 
 [刘铁猛《C#语言入门详解》全集_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13b411b7Ht/?spm_id_from=333.337.search-card.all.click)
 
@@ -80,7 +80,8 @@ Blazor 是一个使用 Blazor 生成交互式客户端 Web UI 的框架：
 - 受益于 .NET 的性能、可靠性和安全性。
 - 使用开发环境（例如 [Visual Studio](https://visualstudio.microsoft.com/) 或 [Visual Studio Code](https://code.visualstudio.com/)）保持 Windows、Linux 或 macOS 上的工作效率。
 - 以一组稳定、功能丰富且易用的通用语言、框架和工具为基础来进行生成。
-- 
+
+
 
  [Blazor 微软官方文档](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
 
@@ -93,10 +94,9 @@ Blazor UI框架推荐
 - [MatBlazor](https://www.matblazor.com/)
 - [Radzen Blazor](https://blazor.radzen.com/)
 
-### dotnet文档
+### dotnet 文档
 
-[github](https://github.com/dotnet/AspNetCore.Docs)
-[webvscode地址](https://github.dev/dotnet/AspNetCore.Docs)
+[GitHub](https://github.com/dotnet/AspNetCore.Docs) / [Web VSCode地址](https://github.dev/dotnet/AspNetCore.Docs)
 
 ## ORM
 
@@ -109,7 +109,7 @@ ORM简介
 　　· 传达性：数据库结构被任何人都能理解的语言文档化。 
 　　· 精确性：基于数据模型创建正确标准化了的结构。 
 
-### [freesql](https://freesql.net/)
+### [FreeSql](https://freesql.net/)
 
 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin✨
 
@@ -124,13 +124,13 @@ SqlSugar 是一款 老牌 .NET 开源ORM框架，由果糖大数据科技团队�
 
 ## 关系型数据库
 
-### [SQLServer](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+### [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 
 SQL Server是由Microsoft开发和推广的**关系数据库管理系统(DBMS)**；
 SQL Server使用方便，伸缩性好与相关软件集成程度高；
 SQL Server 数据库引擎为关系型数据和结构化数据提供了更安全可靠的存储功能。
 
-### [MySql](https://www.mysql.com/)
+### [MySQL](https://www.mysql.com/)
 
 MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL 是最好的 RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一。
 
@@ -142,7 +142,7 @@ PgSQL PostgreSQL 的历史简介. 现在被称为 PostgreSQL 的对象- 关系�
 
 中间件是介于应用系统和系统软件之间的一类软件，它使用系统软件所提供的基础服务（功能），衔接网络上应用系统的各个部分或不同的应用，能够达到资源共享、功能共享的目的。它并没有很严格的定义，但是普遍接受IDC的定义：中间件是一种独立的系统软件服务程序，分布式应用软件借助这种软件在不同的技术之间共享资源，中间件位于客户机服务器的操作系统之上，管理计算资源和网络通信。从这个意义上可以用一个等式来表示中间件：中间件=平台+通信，这也就限定了只有用于分布式系统中才能叫中间件，同时也把它与支撑软件和实用软件区分开来。
 
-### [mongodb](https://www.mongodb.com/)
+### [MongoDB](https://www.mongodb.com/)
 
 MongoDB 是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。
 
@@ -156,14 +156,14 @@ Redis 是一个开源的使用 ANSI C 语言编写、遵守 BSD 协议、支持�
 
 Redis 通常被称为数据结构服务器，因为值（value）可以是字符串(String)、哈希(Hash)、列表(list)、集合(sets)和有序集合(sorted sets)等类型。
 
-### [Rabbitmq](https://www.rabbitmq.com/)
+### [RabbitMQ](https://www.rabbitmq.com/)
 RabbitMQ是实现了高级消息队列协议（AMQP）的开源消息代理软件（亦称面向消息的中间件）。RabbitMQ服务器是用Erlang语言编写的，而集群和故障转移是构建在开放电信平台框架上的。所有主要的编程语言均有与代理接口通讯的客户端库。
 
 ### [ActiveMQ](https://activemq.apache.org/)
 
 Apache ActiveMQ是Apache软件基金会所研发的开放源代码消息中间件；由于ActiveMQ是一个纯Java程序，因此只需要操作系统支持Java虚拟机，ActiveMQ便可执行。
 
-### [Skywalking](https://skywalking.apache.org/)
+### [SkyWalking](https://skywalking.apache.org/)
 
 用于分布式系统的应用程序性能监视工具，特别为微服务、云原生和基于容器(Kubernetes)架构设计。
 
@@ -292,7 +292,7 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 ![image](https://user-images.githubusercontent.com/61819790/216491752-d93b6867-f693-495e-8b2a-e30b1e89e3d2.png)
 
-### [masaframework](https://docs.masastack.com/framework/concepts/overview)
+### [MASA Framework](https://docs.masastack.com/framework/concepts/overview)
 
 全新的.NET现代应用开发，提供分布式应用运行时–基于Dapr云原生最佳实践，能够快速实现分布式、微服务、DDD，SaaS等现代应用开发
 
@@ -301,10 +301,10 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 ## 结尾
 
-欢迎大佬继续补充，壮大dotnet生态！
+欢迎大佬继续补充, 壮大 dotnet 生态！
 
-github地址：[dotent入门到高级](https://github.com/239573049/dotnet-Beginner-to-Advanced)
+GitHub 地址: [dotent入门到高级](https://github.com/239573049/dotnet-Beginner-to-Advanced)
 
-来着token的分享
+来着 token 的分享
 
-技术交流群：737776595
+技术交流群: 737776595
