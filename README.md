@@ -301,7 +301,7 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 
 
-[OpenIddict](https://github.com/openiddict/openiddict-core)
+### [OpenIddict](https://github.com/openiddict/openiddict-core)
 
 OpenIddict是什么?
 
