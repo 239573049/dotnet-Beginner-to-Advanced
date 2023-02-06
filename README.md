@@ -319,6 +319,6 @@ OpenIddict原生支持实体框架核心、实体框架6和MongoDB，并且可�
 
 GitHub 地址: [dotent入门到高级](https://github.com/239573049/dotnet-Beginner-to-Advanced)
 
-来着 token 的分享
+来自 token 的分享
 
 技术交流群: 737776595
