@@ -1,4 +1,4 @@
-# .NET web方向入门到高级路线
+# .NET Web入门到高级路线
 
 1. [C# 基础语法](#csharp基础语法)
 2. [.NET Core 基础知识](#.NETCore基础知识)
@@ -51,7 +51,7 @@ B站视频：
 
 [.NET 6教程，.Net Core 2022视频教程，杨中科主讲_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pK41137He/?spm_id_from=333.337.search-card.all.click)
 
-### ASP.NETCore基础知识概述
+### ASP.NET Core基础知识概述
 
 - [依赖关系注入](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-7.0)
 - [中间件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/middleware/?view=aspnetcore-7.0)
@@ -95,7 +95,7 @@ Blazor UI框架推荐
 - [MatBlazor](https://www.matblazor.com/)
 - [Radzen Blazor](https://blazor.radzen.com/)
 
-### asp.net core 官方文档
+### ASP.NET Core 官方文档
 
 [GitHub](https://github.com/dotnet/AspNetCore.Docs) / [Web VSCode地址](https://github.dev/dotnet/AspNetCore.Docs)
 
