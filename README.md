@@ -1,4 +1,4 @@
-# .NET 入门到高级路线
+# .NET web方向入门到高级路线
 
 1. [C# 基础语法](#csharp基础语法)
 2. [.NET Core 基础知识](#.NETCore基础知识)
@@ -95,7 +95,7 @@ Blazor UI框架推荐
 - [MatBlazor](https://www.matblazor.com/)
 - [Radzen Blazor](https://blazor.radzen.com/)
 
-### dotnet 文档
+### asp.net core 官方文档
 
 [GitHub](https://github.com/dotnet/AspNetCore.Docs) / [Web VSCode地址](https://github.dev/dotnet/AspNetCore.Docs)
 
