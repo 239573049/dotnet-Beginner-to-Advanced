@@ -86,7 +86,7 @@ Blazor 是一个使用 Blazor 生成交互式客户端 Web UI 的框架：
 
  [Blazor 微软官方文档](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
 
- [Blazor 基础教程](https://www.bilibili.com/video/BV1bD4y1n7qj/?share_source=copy_web&vd_source=8c159155ad844a1144bbf369d0046094)
+ [Blazor 基础教程 B站视频教程](https://www.bilibili.com/video/BV1bD4y1n7qj/?share_source=copy_web&vd_source=8c159155ad844a1144bbf369d0046094)
 
 Blazor UI框架推荐
 - [Masa Blazor](https://www.masastack.com/blazor)(作者推荐)
