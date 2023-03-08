@@ -82,8 +82,6 @@ Blazor 是一个使用 Blazor 生成交互式客户端 Web UI 的框架：
 - 使用开发环境（例如 [Visual Studio](https://visualstudio.microsoft.com/) 或 [Visual Studio Code](https://code.visualstudio.com/)）保持 Windows、Linux 或 macOS 上的工作效率。
 - 以一组稳定、功能丰富且易用的通用语言、框架和工具为基础来进行生成。
 
-
-
  [Blazor 微软官方文档](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
 
  [Blazor 基础教程 B站视频教程](https://www.bilibili.com/video/BV1bD4y1n7qj/?share_source=copy_web&vd_source=8c159155ad844a1144bbf369d0046094)
@@ -305,8 +303,6 @@ ABP是一个开源且文档友好的应用程序框架。ABP不仅仅是一个�
 
 ![image](https://user-images.githubusercontent.com/61819790/216491618-c9f3823c-eb2e-4270-923b-3c9030dd2bc2.png)
 
-
-
 ### [OpenIddict](https://github.com/openiddict/openiddict-core)
 
 OpenIddict是什么?
@@ -316,8 +312,6 @@ OpenIddict旨在提供一个通用的解决方案，在任何ASP中实现OpenID�
 OpenIddict完全支持代码/隐式/混合流、客户端凭证/资源所有者密码授予和设备授权流。
 
 OpenIddict原生支持实体框架核心、实体框架6和MongoDB，并且可以实现自定义存储以支持其他提供者。
-
-
 
 ## 结尾
 
