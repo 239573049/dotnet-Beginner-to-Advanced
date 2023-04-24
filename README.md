@@ -86,6 +86,8 @@ Blazor 是一个使用 Blazor 生成交互式客户端 Web UI 的框架：
 
  [Blazor 基础教程 B站视频教程](https://www.bilibili.com/video/BV1bD4y1n7qj/?share_source=copy_web&vd_source=8c159155ad844a1144bbf369d0046094)
 
+  [提供了很多Blazor生态的相关文档](https://github.com/AdrienTorris/awesome-blazor)
+
 Blazor UI框架推荐
 - [Masa Blazor](https://www.masastack.com/blazor)(作者推荐)
 - [Bootstrap Blazor](https://www.blazor.zone/)
