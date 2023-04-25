@@ -23,6 +23,7 @@
   * [Consul](#consul)
   * [Kafka](#kafka)
   * [Dapr](#dapr)
+  * [Elasticsearch](#elasticsearch)
 * [运维](#%E8%BF%90%E7%BB%B4)
   * [Docker](#docker)
   * [DockerCompose](#dockercompose)
@@ -193,6 +194,12 @@ Kafka是一种高吞吐量的分布式发布订阅消息系统，它可以处理
 Dapr 是一个可移植的、事件驱动的运行时，它使任何开发人员能够轻松构建出弹性的、无状态和有状态的应用程序，并可运行在云平台或边缘计算中，它同时也支持多种编程语言和开发框架。
 
 [微软Dapr简介](https://learn.microsoft.com/zh-cn/dotnet/architecture/dapr-for-net-developers/foreword)
+
+### [Elasticsearch](https://www.elastic.co/elasticsearch/)
+
+Elasticsearch 是一个分布式、RESTful 风格的搜索和数据分析引擎，能够解决不断涌现出的各种用例。作为 Elastic Stack 的核心，Elasticsearch 会集中存储您的数据，让您飞快完成搜索，微调相关性，进行强大的分析，并轻松缩放规模。
+
+Elasticsearch 基于 Lucene 库，使用 Java 语言开发，并在 Apache 许可证下作为开源软件发布。在 .NET（C#）、Java、PHP、Python、Apache Groovy、Ruby 和许多其他语言中都受官方客户端支持。根据 DB-Engines 的排名显示，Elasticsearch 是目前最受欢迎的企业搜索引擎。
 
 ## 运维
 
