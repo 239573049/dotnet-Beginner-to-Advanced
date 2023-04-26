@@ -28,6 +28,8 @@
   * [DockerCompose](#dockercompose)
   * [Drone](#drone)
   * [CI/CD](#cicd)
+  * [Kubernetes](#kubernetes)
+  * [K3s](#k3s)
 * [微服务](#%E5%BE%AE%E6%9C%8D%E5%8A%A1)
 * [应用框架](#%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
   * [ABP](#abp)
@@ -245,6 +247,12 @@ CD 持续部署（Continuous Deployment）
 总而言之，所有这些 CI/CD 的关联步骤，都极大地降低了应用的部署风险。
 
 不过，由于还需要编写自动化测试以适应 CI/CD 管道中的各种测试和发布阶段，因此前期工作量还是很大的。
+
+### [Kubernetes](https://kubernetes.io/zh-cn/)
+Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化。 Kubernetes 拥有一个庞大且快速增长的生态，其服务、支持和工具的使用范围相当广泛。
+
+### [K3s](https://k3s.io/)
+K3s 是轻量级的 Kubernetes。K3s 易于安装，仅需要 Kubernetes 内存的一半，所有组件都在一个小于 100 MB 的二进制文件中。
 
 ## 微服务
 
