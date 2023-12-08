@@ -56,15 +56,16 @@ B站视频：
 
 ### ASP.NET Core基础知识概述
 
-- [依赖关系注入](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-7.0)
-- [中间件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/middleware/?view=aspnetcore-7.0)
-- [配置](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/configuration/?view=aspnetcore-7.0)
-- [选项](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/configuration/options?view=aspnetcore-7.0)
-- [环境](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/environments?view=aspnetcore-7.0)
-- [Logging](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/logging/?view=aspnetcore-7.0)
+- [依赖关系注入](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-8.0)
+- [中间件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/middleware/?view=aspnetcore-8.0)
+- [最小API](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-8.0)
+- [配置](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/configuration/?view=aspnetcore-8.0)
+- [选项](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/configuration/options?view=aspnetcore-8.0)
+- [环境](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/environments?view=aspnetcore-8.0)
+- [Logging](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/logging/?view=aspnetcore-8.0)
 - [路由](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/routing?view=aspnetcore-7.0)
-- [处理错误](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/error-handling?view=aspnetcore-7.0)
-- [静态文件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/static-files?view=aspnetcore-7.0)
+- [处理错误](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/error-handling?view=aspnetcore-8.0)
+- [静态文件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/static-files?view=aspnetcore-8.0)
 
 ### Blazor
 
@@ -92,11 +93,25 @@ Blazor 是一个使用 Blazor 生成交互式客户端 Web UI 的框架：
   [提供了很多Blazor生态的相关文档](https://github.com/AdrienTorris/awesome-blazor)
 
 Blazor UI框架推荐
-- [Masa Blazor](https://www.masastack.com/blazor)(作者推荐)
+- [Masa Blazor](https://www.masastack.com/blazor)
+	- 一套基于Material Design和Blazor的企业级UI组件。它几乎完美地复制了Vuetify，并制定了长期的路线图。它由MASA团队提供支持，并保持免费和开源。
+- [FAST Blazor](https://github.com/microsoft/fast-blazor)(微软官方组件库)
+  -  FAST是一个基于Web组件和现代Web标准构建的技术集合，旨在帮助您高效地解决网站和应用程序设计与开发中的一些常见挑战
+
 - [Bootstrap Blazor](https://www.blazor.zone/)
+  - 用于Blazor的可重用Bootstrap组件。
+
 - [Ant Design Blazor](https://ant-design-blazor.gitee.io/zh-CN/docs/introduce)
+  - 一套基于Ant Design和Blazor的企业级UI组件。
+
 - [MatBlazor](https://www.matblazor.com/)
+
+  - #### 一套Material Design风格组件库
+
 - [Radzen Blazor](https://blazor.radzen.com/)
+
+  - Blazor的原生UI组件。DataGrid、DataList、Tabs、Dialog等。
+
 
 ### ASP.NET Core 官方文档
 
